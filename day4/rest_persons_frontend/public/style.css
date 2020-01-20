@@ -1,0 +1,26 @@
+body {
+   margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   background: #f9f9f9!important;
+ }
+ 
+ .container {
+    margin-top: 2em;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .container-fluid {
+    margin-top: 2em;
+    padding-bottom: 2em;
+ }
+ 
+
+ .default-box{
+    padding: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 3px;
+    background-color: #FFF;
+    margin-bottom: 10px;
+ }
